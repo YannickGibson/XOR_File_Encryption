@@ -1,0 +1,33 @@
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.deps.json
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.runtimeconfig.json
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.runtimeconfig.dev.json
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.dll
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.pdb
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.csprojAssemblyReference.cache
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.csproj.CoreCompileInputs.cache
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.AssemblyInfoInputs.cache
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.AssemblyInfo.cs
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.dll
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.pdb
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.deps.json
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.runtimeconfig.json
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.runtimeconfig.dev.json
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.dll
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.pdb
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.csprojAssemblyReference.cache
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.AssemblyInfoInputs.cache
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.AssemblyInfo.cs
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.dll
+C:\Users\Tokbacc\source\repos\Učitelé\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.pdb
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.deps.json
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.runtimeconfig.json
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.runtimeconfig.dev.json
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.dll
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\bin\Debug\netcoreapp2.1\XOR Sifrovani.pdb
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.csprojAssemblyReference.cache
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.AssemblyInfoInputs.cache
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.AssemblyInfo.cs
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.csproj.CoreCompileInputs.cache
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.dll
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.pdb
+C:\Users\Tokbacc\source\repos\Teachers\Svec\XOR Sifrovani souboru\XOR Sifrovani\obj\Debug\netcoreapp2.1\XOR Sifrovani.genruntimeconfig.cache
